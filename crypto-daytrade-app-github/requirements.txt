@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+httpx
+websockets
+websocket-client
+ccxt
